@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nested loops", "nested loops\nested loops.vcxproj", "{51CBB15C-5C05-4D3F-AB91-0A82173634FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51CBB15C-5C05-4D3F-AB91-0A82173634FB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{51CBB15C-5C05-4D3F-AB91-0A82173634FB}.Debug|Win32.Build.0 = Debug|Win32
+		{51CBB15C-5C05-4D3F-AB91-0A82173634FB}.Release|Win32.ActiveCfg = Release|Win32
+		{51CBB15C-5C05-4D3F-AB91-0A82173634FB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E484D0A3-FC59-4940-9405-D4A0955C34BF}
+	EndGlobalSection
+EndGlobal
